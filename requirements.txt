@@ -1,0 +1,11 @@
+flask
+python-dotenv
+openai
+aiohttp
+requests
+google-generativeai
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-dotenv
+requests
